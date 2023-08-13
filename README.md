@@ -29,14 +29,16 @@ At a non-descript spot way out in the New Mexico desert between Socorro and Alam
 
 That event, along with decades of nuclear proliferation, were what led [Brian Moriarty](https://en.wikipedia.org/wiki/Brian_Moriarty) to write the text adventure game called [Trinity](<https://en.wikipedia.org/wiki/Trinity_(video_game)>) in 1986.
 
-<h1 align="center">
-
-<img src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/trinity-box-art.jpg" alt="Trinity Box Art"/>
+<p align="center">
+<img style="width: 50%" src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/trinity-box-art.jpg" alt="Trinity Box Art"/><br>
 <img src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/trinity-disk.jpg" alt="Trinity Infocom"/>
-<img src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/infocom.gif" alt="Infocom"/>
-</h1>
+</p>
 
 The game was published by [Infocom](https://en.wikipedia.org/wiki/Infocom). The rights to this game are theoretically still held by [Activision](https://en.wikipedia.org/wiki/Activision), who acquired Infocom in 1996.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/infocom.gif" alt="Infocom"/>
+</p>
 
 My "remythologized" work is in no way an attempt to claim priority nor original authorship, hence providing the above attribution information. What I'm doing here is exactly what it sounds like: an attempt to mythologize again (but in a new way) what is arguably one of the most popular of Infocom's titles.
 
