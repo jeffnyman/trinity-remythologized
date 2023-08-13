@@ -13,7 +13,7 @@
 > the birth of the world._
 >
 > &nbsp;&nbsp;&nbsp;&nbsp; **William L. Laurence**
-> &nbsp;&nbsp;&nbsp;&nbsp; Witness to the _Trinity_ atomic explosion.
+> <br>&nbsp;&nbsp;&nbsp;&nbsp; Witness to the _Trinity_ atomic explosion.
 
 ---
 
@@ -21,7 +21,7 @@
 > That ever I was born to set it right!_
 >
 > &nbsp;&nbsp;&nbsp;&nbsp; **William Shakespeare**
-> &nbsp;&nbsp;&nbsp;&nbsp; _The Tragedy of Hamlet, Act 1, Scene 5_
+> <br>&nbsp;&nbsp;&nbsp;&nbsp; _The Tragedy of Hamlet, Act 1, Scene 5_
 
 ---
 
