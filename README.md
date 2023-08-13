@@ -37,7 +37,7 @@ That event, along with decades of nuclear proliferation, were what led [Brian Mo
 The game was published by [Infocom](https://en.wikipedia.org/wiki/Infocom). The rights to this game are theoretically still held by [Activision](https://en.wikipedia.org/wiki/Activision), who acquired Infocom in 1996.
 
 <p align="center">
-<img style="background: #fff" src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/infocom.gif" alt="Infocom"/>
+<img style="background-color: #fff;" src="https://raw.githubusercontent.com/jeffnyman/trinity-remythologized/master/assets/infocom.gif" alt="Infocom"/>
 </p>
 
 My "remythologized" work is in no way an attempt to claim priority nor original authorship, hence providing the above attribution information. What I'm doing here is exactly what it sounds like: an attempt to mythologize again (but in a new way) what is arguably one of the most popular of Infocom's titles.
