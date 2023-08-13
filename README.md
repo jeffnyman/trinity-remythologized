@@ -12,7 +12,8 @@
 > One felt as though he had been privilged to witness<br>
 > the birth of the world._
 >
-> &nbsp;&nbsp;&nbsp;&nbsp; **William L. Laurence**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp; **William L. Laurence**
+>
 > &nbsp;&nbsp;&nbsp;&nbsp; Witness to the _Trinity_ atomic explosion.
 
 ---
@@ -20,7 +21,8 @@
 > _The time is out of joint, O cursèd spite,<br>
 > That ever I was born to set it right!_
 >
-> &nbsp;&nbsp;&nbsp;&nbsp; **William Shakespeare**<br>
+> &nbsp;&nbsp;&nbsp;&nbsp; **William Shakespeare**
+>
 > &nbsp;&nbsp;&nbsp;&nbsp; _The Tragedy of Hamlet, Act 1, Scene 5_
 
 ---
