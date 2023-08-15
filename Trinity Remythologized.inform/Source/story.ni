@@ -12,4 +12,6 @@ Should you take this option, you'll find yourself in a place where time and spac
 
 And the future of history will be in your hands."
 
-Example Location is a room.
+Include Trinity Remythologized by Jeff Nyman.
+
+Palace Gate is a room.
