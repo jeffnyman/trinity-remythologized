@@ -7,6 +7,7 @@ Use authorial modesty.
 Part - Extensions
 
 Include Standard Additions by Jeff Nyman.
+Include Trinity Viewpoint and Tense by Jeff Nyman.
 
 Section G (for Glulx only)
 
