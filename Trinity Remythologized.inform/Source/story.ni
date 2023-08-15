@@ -3,6 +3,7 @@
 The story headline is "An Interactive Remake".
 The story genre is "Fantasy".
 The story creation year is 2023.
+The release number is 1.
 
 The story description is "You're an American tourist in London, taking a stroll through the famous Kensington Gardens. Truth be told it was a bit of a dull vacation so far. But then the apocalypse started. And while that made things less dull, it made surviving the trip quite less likely.
 
