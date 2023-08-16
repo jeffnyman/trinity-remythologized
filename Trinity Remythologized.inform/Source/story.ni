@@ -15,4 +15,14 @@ And the future of history will be in your hands."
 
 Include Trinity Remythologized by Jeff Nyman.
 
+Volume - Story Mechanics
+
+Book - Tense and Viewpoint
+
+When play begins:
+	now the story viewpoint is first person singular;
+	now the story tense is past tense.
+
+Volume - Story World
+
 Palace Gate is a room.

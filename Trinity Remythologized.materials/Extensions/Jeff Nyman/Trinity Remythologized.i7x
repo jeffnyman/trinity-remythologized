@@ -13,6 +13,10 @@ Section G (for Glulx only)
 
 Include Glulx Text Effects by Emily Short.
 
+Part - Release Information
+
+Release along with cover art ("Sundial with nuclear explosion in the distance."), a file of "Illustrated Story of the Atom Bomb" called "Story of the Atom Bomb.pdf", a file of "Folding Paper Crane Instructions" called "Folding Instructions.pdf", a file of "Map of the Trinity Site" called "Map of the Trinity Site.pdf", a file of "Decorated Sundial" called "Decorated Sundial.pdf", a file of "Trinity Box" called "Trinity Box.pdf", the introductory booklet, an introductory postcard, a website, the source text, and an interpreter.
+
 Part - Unicode Determination
 
 [ This logic is derived from the extension "Unicode Interrogation" by Michael Martin. ]
