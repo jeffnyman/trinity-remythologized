@@ -25,4 +25,10 @@ When play begins:
 
 Volume - Story World
 
+Book - Geography
+
+Part - Locations
+
 Palace Gate is a room.
+
+[]
