@@ -36,12 +36,25 @@ Understand "fp" or "first person" or "first person singular" as changing to fp.
 Carry out changing to fp:
 	now the story viewpoint is first person singular.
 
-
 Changing to fpp is an action out of world.
 Understand "fpp" or "first person plural" as changing to fpp.
 
 Carry out changing to fpp:
 	now the story viewpoint is first person plural.
+	
+Section - Third Person
+
+Changing to tp is an action out of world.
+Understand "tp" or "third person" or "third person singular" as changing to tp.
+
+Carry out changing to tp:
+	now the story viewpoint is third person singular.
+	
+Changing to tpp is an action out of world.
+Understand "tpp" or "third person plural" as changing to tpp.
+
+Carry out changing to tpp:
+	now the story viewpoint is third person plural.
 
 Section - Past Tense
 
@@ -58,5 +71,13 @@ Understand "prt" or "present tense" as changing to prt.
 
 Carry out changing to prt:
 	now the story tense is present tense
+
+Section - Future Tense
+
+Changing to frt is an action out of world.
+Understand "frt" or "future tense" as changing to frt.
+
+Carry out changing to frt:
+	now the story tense is future tense.
 
 Trinity Viewpoint and Tense ends here.
