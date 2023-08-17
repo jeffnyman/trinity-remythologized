@@ -29,6 +29,6 @@ Book - Geography
 
 Part - Locations
 
-Palace Gate is a room.
+Palace Gate is a room. "Palace Gate is a street running north to south leading up to Kensington Gardens. It was previously part of the Gloucester Road, which is just to the south. According to the guidebook, Gloucester Road was named after Maria, Duchess of Gloucester and Edinburgh who apparently built a house there in 1805.[p]A tide of baby strollers [--] or perambulators, as they call them here [--] surges north along what becomes the crowded Broad Walk. Shaded glades stretch away to the northeast and a hint of color marks the western edge of what the guidebook says is the Flower Walk."
 
 []
