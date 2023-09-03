@@ -48,13 +48,13 @@ Flower Walk is a room.
 
 Part - Connections
 
-Broad Walk is north of Palace Gate.
+Broad Walk is north of Palace Gate. "The Black Lion Gate is at the northern end of the Broad Walk, leading out of Kensington Gardens to what is apparently the very busy Bayswater Road.[p]Nannies and tourists hurry through the Lancaster Gate, which comes in from the east, to join the perambulators rolling south down the Broad Walk. Less crowded paths wind east along an iron fence, and southeast between the trees."
 
 The unvisited summary of the Broad Walk is "what appears to be the crowded Broad Walk".
 
 The visited summary of the Broad Walk is "what you have seen is the very crowded Broad Walk".
 
-Flower Walk is east of Palace Gate.
+Flower Walk is east of Palace Gate. "Flamboyantly colored flower beds line the walks bending north and west, filling the air with a pleasant, if sometimes overpowering, fragrance. A little path leads northwest, between the trees.[p]The spires of the Albert Memorial are all too visible to the south. Passing tourists hoot with laughter at the dreadful sight; nannies hide their faces and roll quickly away."
 
 The unvisited summary of the Flower Walk is "what appears to be the slightly less crowded Flower Walk".
 
