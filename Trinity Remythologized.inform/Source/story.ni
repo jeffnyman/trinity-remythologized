@@ -37,7 +37,19 @@ Book - Geography
 
 Part - Locations
 
+Chapter - Gates
+
 Palace Gate is a room. "Palace Gate [are] a street running north to south leading up to Kensington Gardens. It was previously part of the Gloucester Road, which [are] just to the south. According to the guidebook, Gloucester Road was named after Maria, Duchess of Gloucester and Edinburgh who apparently built a house [here] in 1805.[p]A tide of baby strollers [--] or 'perambulators', as [regarding the perambulators][they] [call] them [here] [--] [surge] north along what [singular][become] the crowded Broad Walk. Shaded glades [plural][stretch] away to the northeast and a hint of color [singular][mark] the western edge of what the guidebook [singular][say] [are] the Flower Walk."
+
+Chapter - Walks
+
+Broad Walk is a room.
+Flower Walk is a room.
+
+Part - Connections
+
+Broad Walk is north of Palace Gate.
+Flower Walk is east of Palace Gate.
 
 Book - Items
 
