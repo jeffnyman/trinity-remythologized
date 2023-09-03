@@ -48,7 +48,7 @@ Flower Walk is a room.
 
 Part - Connections
 
-Broad Walk is north of Palace Gate. "The Black Lion Gate is at the northern end of the Broad Walk, leading out of Kensington Gardens to what is apparently the very busy Bayswater Road.[p]Nannies and tourists hurry through the Lancaster Gate, which comes in from the east, to join the perambulators rolling south down the Broad Walk. Less crowded paths wind east along an iron fence, and southeast between the trees."
+Broad Walk is north of Palace Gate. "A brooding statue of Queen Victoria faces east, where the waters of the Round Pond sparkle in the afternoon sun. It's possible to follow the crowded Broad Walk north and south until its borders are lost amid the bustle of perambulators. Small paths curve northeast and southeast between the trees."
 
 The unvisited summary of the Broad Walk is "what appears to be the crowded Broad Walk".
 
