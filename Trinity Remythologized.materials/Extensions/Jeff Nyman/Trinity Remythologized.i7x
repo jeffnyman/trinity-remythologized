@@ -8,6 +8,7 @@ Part - Extensions
 
 Include Standard Additions by Jeff Nyman.
 Include Trinity Viewpoint and Tense by Jeff Nyman.
+Include Contextual Descriptions by Jeff Nyman.
 
 Section G (for Glulx only)
 
