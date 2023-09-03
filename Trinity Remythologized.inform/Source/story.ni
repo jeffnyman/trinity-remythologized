@@ -24,6 +24,9 @@ To call is a verb.
 To mark is a verb.
 To stretch is a verb.
 To surge is a verb.
+To face is a verb.
+To sparkle is a verb.
+To curve is a verb.
 
 Book - Tense and Viewpoint
 
@@ -48,7 +51,7 @@ Flower Walk is a room.
 
 Part - Connections
 
-Broad Walk is north of Palace Gate. "A brooding statue of Queen Victoria faces east, where the waters of the Round Pond sparkle in the afternoon sun. It's possible to follow the crowded Broad Walk north and south until its borders are lost amid the bustle of perambulators. Small paths curve northeast and southeast between the trees."
+Broad Walk is north of Palace Gate. "A brooding statue of Queen Victoria [singular][face] east, where the waters of the Round Pond [plural][sparkle] in the afternoon sun. [It's] possible to follow the crowded Broad Walk north and south until its borders [are] lost amid the bustle of perambulators. Small paths [plural][curve] northeast and southeast between the trees."
 
 The unvisited summary of the Broad Walk is "what appears to be the crowded Broad Walk".
 
