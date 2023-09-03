@@ -39,7 +39,7 @@ Part - Locations
 
 Chapter - Gates
 
-Palace Gate is a room. "Palace Gate [are] a street running north to south leading up to Kensington Gardens. It was previously part of the Gloucester Road, which [are] just to the south. According to the guidebook, Gloucester Road was named after Maria, Duchess of Gloucester and Edinburgh who apparently built a house [here] in 1805.[p]A tide of baby strollers [--] or 'perambulators', as [regarding the perambulators][they] [call] them [here] [--] [surge] north along what [singular][become] the crowded Broad Walk. Shaded glades [plural][stretch] away to the northeast and a hint of color [singular][mark] the western edge of what the guidebook [singular][say] [are] the Flower Walk."
+Palace Gate is a room. "Palace Gate [are] a street running north to south leading up to Kensington Gardens. It was previously part of the Gloucester Road, which [are] just to the south. According to the guidebook, Gloucester Road was named after Maria, Duchess of Gloucester and Edinburgh who apparently built a house [here] in 1805.[p]A tide of baby strollers [--] or 'perambulators', as [regarding the perambulators][they] [call] them [here] [--] [surge] north along what [singular][become] the crowded Broad Walk. Shaded glades [plural][stretch] away to the northeast and a hint of color [singular][mark] the western edge of what the guidebook [singular][say] [are] the Flower Walk. [summarize the Broad Walk]. [summarize the Flower Walk]"
 
 Chapter - Walks
 
@@ -49,7 +49,16 @@ Flower Walk is a room.
 Part - Connections
 
 Broad Walk is north of Palace Gate.
+
+The unvisited summary of the Broad Walk is "what appears to be the crowded Broad Walk".
+
+The visited summary of the Broad Walk is "what you have seen is the very crowded Broad Walk".
+
 Flower Walk is east of Palace Gate.
+
+The unvisited summary of the Flower Walk is "what appears to be the slightly less crowded Flower Walk".
+
+The visited summary of the Flower Walk is "what you have seen is the slightly less crowded Broad Walk".
 
 Book - Items
 
