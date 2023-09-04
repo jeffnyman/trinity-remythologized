@@ -86,5 +86,4 @@ Modify Viewpoint and Tense ends here.
 
 This extension is designed to make it easy to change the viewpoint and the tense of the narrative. This is really only useful if you conditionalize your story text to handle this kind of situation since Inform will not apply these changes except in the case of messages built-in to the standard library.
 
-
-
+Inform 7 provides a kind called narrative viewpoint which provides six possible values for changing how the viewpoint is reported. Inform 7 also provides a kind called grammatical tense which provides five possible values for chaning how the tense is reported.
