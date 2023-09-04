@@ -1,6 +1,6 @@
-Trinity Viewpoint and Tense by Jeff Nyman begins here.
+Version 1.5.0 of Modify Viewpoint and Tense by Jeff Nyman begins here.
 
-"Trinity-specific extension to provide viewing and tense handling."
+"Provides modifications to viewpoint and tense handling."
 
 Use authorial modesty.
 
@@ -80,4 +80,11 @@ Understand "frt" or "future tense" as changing to frt.
 Carry out changing to frt:
 	now the story tense is future tense.
 
-Trinity Viewpoint and Tense ends here.
+Modify Viewpoint and Tense ends here.
+
+---- DOCUMENTATION ----
+
+This extension is designed to make it easy to change the viewpoint and the tense of the narrative. This is really only useful if you conditionalize your story text to handle this kind of situation since Inform will not apply these changes except in the case of messages built-in to the standard library.
+
+
+
