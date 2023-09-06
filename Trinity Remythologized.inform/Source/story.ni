@@ -27,6 +27,7 @@ To surge is a verb.
 To face is a verb.
 To sparkle is a verb.
 To curve is a verb.
+To appear is a verb.
 
 Book - Tense and Viewpoint
 
@@ -51,11 +52,11 @@ Flower Walk is a room.
 
 Part - Connections
 
-Broad Walk is north of Palace Gate. "A brooding statue of Queen Victoria [singular][face] east, where the waters of the Round Pond [plural][sparkle] in the afternoon sun. [It's] possible to follow the crowded Broad Walk north and south until its borders [are] lost amid the bustle of perambulators. Small paths [plural][curve] northeast and southeast between the trees."
+Broad Walk is north of Palace Gate. "A brooding statue of Queen Victoria [singular][face] east, where the waters of the Round Pond [plural][sparkle] in the afternoon sun. [It's] possible to follow the crowded Broad Walk north and south until its borders [plural][are] lost amid the bustle of perambulators. Small paths [plural][curve] northeast and southeast between the trees."
 
-The unvisited summary of the Broad Walk is "what appears to be the crowded Broad Walk".
+The unvisited summary of the Broad Walk is "what [singular][appear] to be the crowded Broad Walk".
 
-The visited summary of the Broad Walk is "what you have seen is the very crowded Broad Walk".
+The visited summary of the Broad Walk is "what [we] [have] seen [singular][are] the very crowded Broad Walk".
 
 Flower Walk is east of Palace Gate. "Flamboyantly colored flower beds line the walks bending north and west, filling the air with a pleasant, if sometimes overpowering, fragrance. A little path leads northwest, between the trees.[p]The spires of the Albert Memorial are all too visible to the south. Passing tourists hoot with laughter at the dreadful sight; nannies hide their faces and roll quickly away."
 
